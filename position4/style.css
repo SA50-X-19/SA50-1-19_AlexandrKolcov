@@ -1,0 +1,34 @@
+.box {
+    display:inline-block;
+    width: 100px;
+    height: 100px;
+    background:white;
+    color: black;
+  }
+  
+  .block {
+    width: 80%;
+    margin: auto;
+  }
+  #block1 {
+    height: 475px; 
+    border: black;
+    border-style: dotted;
+    background:white;
+  }
+  
+  #block2 {
+    margin-top: 25px;
+    height: 300px; 
+    border: black;
+    border-style: dotted;
+    background:white;
+  }
+  
+  #block3{
+    height: 300px;
+    margin-top: 25px;
+    border: black;
+    border-style: dotted;
+    background:white;
+  }
